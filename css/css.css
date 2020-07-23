@@ -1,7 +1,7 @@
 body {
   font-family: 'Lato', sans-serif;
   padding-top: 54px;
-  color: #868e96;
+  color: #4682B4;
 }
 
 @media (min-width: 992px) {
@@ -20,7 +20,7 @@ h6 {
   font-family: 'Lato', sans-serif;
   font-weight: 700;
   text-transform: uppercase;
-  color: #343a40;
+  color: #4682B4;
 }
 
 h1 {
@@ -143,5 +143,5 @@ a {
 }
 
 a:hover, a:focus, a:active {
-  color: #32161d;
+  color: #191970;
 }
